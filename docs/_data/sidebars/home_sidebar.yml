@@ -10,8 +10,8 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
-      url: /core
+      title: History of wind turbines
+      url: /history
     output: web
     title: wind_turbines_for_developers
   output: web
