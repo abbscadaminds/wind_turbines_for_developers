@@ -22,7 +22,7 @@ entries:
       title: Wind Turbine
       url: /wind_turbine
     - output: web,pdf
-      title: Title
+      title: Wind Farm
       url: /wind_farm
     output: web
     title: wind_turbines_for_developers
