@@ -1,6 +1,10 @@
 {
   "wind_turbines_for_developers": {
     "Overview": "/",
-    "History of wind turbines": "/history"
+    "History of wind turbines": "/history",
+    "Abbreviation in Wind": "/abbreviation",
+    "The Wind Resource": "/wind_resource",
+    "Wind Turbine": "/wind_turbine",
+    "Title": "/wind_farm"
   }
 }

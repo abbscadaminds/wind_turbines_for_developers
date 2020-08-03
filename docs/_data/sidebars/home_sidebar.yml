@@ -12,6 +12,18 @@ entries:
     - output: web,pdf
       title: History of wind turbines
       url: /history
+    - output: web,pdf
+      title: Abbreviation in Wind
+      url: /abbreviation
+    - output: web,pdf
+      title: The Wind Resource
+      url: /wind_resource
+    - output: web,pdf
+      title: Wind Turbine
+      url: /wind_turbine
+    - output: web,pdf
+      title: Title
+      url: /wind_farm
     output: web
     title: wind_turbines_for_developers
   output: web
