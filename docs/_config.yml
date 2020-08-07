@@ -62,3 +62,4 @@ permalink: pretty
 
 theme: jekyll-theme-cayman
 baseurl: /wind_turbines_for_developers/
+encoding: UTF-8
